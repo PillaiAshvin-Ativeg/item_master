@@ -1,0 +1,5 @@
+<odoo>
+
+        <menuitem id="menu_item_master_root" name="Item Master" action="action_item_master"/>
+
+</odoo>
